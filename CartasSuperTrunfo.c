@@ -2960,6 +2960,7 @@ int comparacao1, comparacao2;
     printf("4. Após a seleção das cidades os jogadores poderam escolher 2 atributos a serem comparados.\n");
     printf("5. Cada atributo vale 1 ponto, vence aquele que fizer 2 pontos.\n");
     printf("6. No modo Vs CPU, a segunda carta será escolhida aleatoriamente.\n");
+    printf("Novo commit\n");
 
         break;
 
